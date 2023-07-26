@@ -3,6 +3,8 @@
 ## DiceHold
 DiceHold is a fully interactive UI web application (game) built with CSS, HTML and Javascript. In this game the score will be reset if dice showed 1. So each player has to hold the score of the dice on the basis of his good guess. The one who will reach the set score first will win the game.
 This game is open for contribution. You can expand it as you want. You can add different features to it. The procedure of contribution is given below.
+## Preview
+https://dicehold.netlify.app
 ## Features
 - Fully Interactive
 - Multiplayer
